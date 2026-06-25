@@ -22,18 +22,18 @@
 ////////////////////////////////// Aide technologique
 // Votre p'tit chum Hackerman vous dit d'exécuter les lignes suivantes la PREMIÈRE fois uniquement:
 // docker run -d --name devoir1 mongo:latest
-// docker exec -it devoir1 mongosh mongodb+srv://devoir1.xnoal.mongodb.net/panneaux_ville_de_quebec -u student -p glo4035
+// docker exec -it devoir1 mongosh mongodb+srv://string -u student -p glo4035
 // Votre p'tit chum Hackerman vous dit d'exécuter les lignes suivantes les prochaines fois:
 // docker stop devoir1
 // docker start devoir1
-// docker exec -it devoir1 mongosh mongodb+srv://devoir1.xnoal.mongodb.net/panneaux_ville_de_quebec -u student -p glo4035
+// docker exec -it devoir1 mongosh mongodb+srv://string -u student -p glo4035
 //////////////////////////////////
 
 
 ////////////////////////////////// Remise
 // Écrivez vos réponses dans ce fichier (mongoDB.js) et déposez le fichier sur MonPortail à l'aide de la boîte de dépôt de cette évaluation. Aucun retard accepté.
 //////////////////////////////////
-// const connectionString = "mongodb+srv://student:glo4035@devoir1.xnoal.mongodb.net/panneaux_ville_de_quebec";
+// const connectionString = "mongodb+srv://string";
 // db = connect(connectionString);
 
 // Utilisez la base de données panneaux_ville_de_quebec
